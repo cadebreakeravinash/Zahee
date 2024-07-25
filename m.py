@@ -10,10 +10,10 @@ from cryptography.fernet import Fernet
 import threading
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('6658426503:AAGXyi266msKeGxpbzo4VarIfA5JlqBZUDQ')
+bot = telebot.TeleBot('7333160558:AAHP70T_iJ0AV5Sfx_0rGz7xNFYbAryWEB8')
 
 # Admin user IDs
-admin_id = {"881808734"}
+admin_id = {"6682104026"}
 
 # Files for data storage
 USER_FILE = "users.json"
